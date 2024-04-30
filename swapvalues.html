@@ -1,0 +1,27 @@
+<html>
+    <head>swaping
+    </head>
+    <body>
+        <p>swap values on clicking the button</p>
+        <button id="swapButton" onclick="swapValues()">Swap Values</button>
+        <p id="result">Result: </p>
+
+
+    <script type="text/javascript">
+        function swapValues(){
+        // define value of x and y //
+        var x=5;
+        var y=10;
+
+        // calculate the sum of x and y
+        x = x ^ y;
+        y = x ^ y;
+        x = x ^ y;
+
+        document.getElementById("result").textContent = "Result: x = " + x + ", y = " + y;
+        }
+        </script>
+    </body>
+</html>
+
+

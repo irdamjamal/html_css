@@ -1,0 +1,47 @@
+<!--design schema for clg where entities are branch , clg , roll contact num , address -->
+
+<xml version="1.0" encoding="UTF-8?">      
+    <info_stud>
+        <student>
+            <name>Irdam</name>
+            <clg>NIET</clg>
+            <branch>computer science</branch>
+            <rollnum>27</rollnum>
+            <address>noida</address>
+        </student>
+
+        <student>
+            <name>anuj</name>
+            <clg>NIET</clg>
+            <branch>computer science</branch>
+            <rollnum>12</rollnum>
+            <address>gr noida</address>
+        </student>
+
+        <student>
+            <name>aslam</name>
+            <clg>NIET</clg>
+            <branch>computer science</branch>
+            <rollnum>22</rollnum>
+            <address>streets</address>
+        </student>
+
+        <student>
+            <name>fsssf</name>
+            <clg>NIET</clg>
+            <branch>computer science</branch>
+            <rollnum>27</rollnum>
+            <address>nsdfa</address>
+        </student>
+
+        <student>
+            <name>Irdasdefre</name>
+            <clg>gl bvaja</clg>
+            <branch>bca</branch>
+            <rollnum>23</rollnum>
+            <address>aplha</address>
+        </student>
+
+
+    </info_stud>
+</xml>

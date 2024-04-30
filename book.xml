@@ -1,0 +1,41 @@
+<?xml version="1.1" encoding="UTF-8"?>
+<?xml-stylesheet href="book.css" type="text/css"?>
+
+<!-- book store schema that contain title author and year -->
+
+    <book_store>
+        <book>
+            <author>james vince</author>
+            <b_name>story of the london streets</b_name>
+            <year>2012</year>
+            <price>420</price>
+        </book>
+
+        <book>
+            <author>william shakespeare</author>
+            <b_name>merchant of venice</b_name>
+            <year>2011</year>
+            <price>560</price>
+        </book>
+
+        <book>
+            <author>abraham de villiers</author>
+            <b_name>danke</b_name>
+            <year>2021</year>
+            <price>220</price>
+        </book>
+
+        <book>
+            <author>sawyer</author>
+            <b_name>story of tom sawyer</b_name>
+            <year>1993</year>
+            <price>150</price>
+        </book>
+
+        <book>
+            <author>lilliput</author>
+            <b_name>Irdam Jamal</b_name>
+            <year>2023</year>
+            <price>1999</price>
+        </book>
+    </book_store>
